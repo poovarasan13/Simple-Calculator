@@ -1,4 +1,4 @@
-Live Demo:http://localhost:3000/poovarasan13/Simple-Calculator-React
+
 
 # Getting Started with Create React App
 
